@@ -1,0 +1,143 @@
+﻿
+.box1{
+	border-width: 2px;
+	border-color : black;
+	padding: 8px;
+	margin-bottom: 40px;
+	margin-left: 100px;
+	border-radius: 5px;
+	width: 280px;
+	}
+
+.box2{
+	border-width: 2px;
+	border-color : black;
+	padding: 8px;
+	margin-bottom: 40px;
+	margin-left: 120px;
+	border-radius: 5px;
+	width: 280px;
+	}
+
+.box3{
+	border-width: 2px;
+	border-color : black;
+	padding: 8px;
+	margin-bottom: 40px;
+	margin-left: 60px;
+	border-radius: 5px;
+	width: 280px;
+	}
+.box4{
+	border-width: 2px;
+	border-color : black;
+	padding: 8px;
+	margin-bottom: 40px;
+	margin-left: 40px;
+	border-radius: 5px;
+	width: 280px;
+	}
+pb {
+	background: rgb(234, 234, 225) ;
+	padding : 10px;
+	border-radius: 5px;
+	font-size: 30px;
+}
+
+.form{
+	border-width: 20px;
+	border-color : black;
+	align : center;	
+}
+pb1 {
+	background: rgb(234, 234, 225) ;
+	padding : 10px;
+	margin-left:450px;
+	margin-bottom:50px;
+	border-radius: 5px;
+	font-size:30px;
+}
+pb2 {
+	background: rgb(234, 234, 225) ;
+	padding : 10px;
+	border-radius: 5px;
+	align:right;
+	margin-left : 1350px;
+	font-size : 20px;
+}#img{
+	border-radius:50%;
+	margin-right: 90px;
+}
+
+.fbox{
+	border-width: 20px;
+	border-color : black;
+	align : bottom;
+	margin-left : 300px;
+	margin-top : 50px;
+}
+#horizontal_bar{
+	border-width: 20 px;
+	margin-bottom: 100px;
+}
+#vertical_bar{
+	display: flex;
+	align-items: left;
+	flex-wrap: wrap;
+}
+.list {
+  display: block;
+  margin-top :50px;
+  font-size:20px;
+  spacing :20px;
+  font-family : "Serif" ;
+  font-weight: bold;
+}
+
+.op1{
+	margin: 8px;
+}
+
+.op2{
+	margin: 8px;
+}
+
+.op3{
+	margin: 15px;
+	margin-top:25px;
+}
+.op4{
+	margin: 8px;
+}
+
+.listm{
+border-right: 10px;
+background : rgb(234, 234, 225) ;
+height : 550px;
+
+}
+ 
+.bt1{
+	background : red ;
+	height:50px;
+	width: 150px;
+	border-radius: 10px;
+	font-size: 20;
+	font-weight: bold;
+	margin-left: 400px;
+
+}
+
+.bt2{
+	background : green ;
+	height:50px;
+	width: 150px;
+	border-radius: 10px;
+	font-size: 20;
+	font-weight: bold;
+	margin-left: 50px;
+
+}
+
+
+
